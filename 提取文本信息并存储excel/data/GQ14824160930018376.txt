@@ -1,0 +1,429 @@
+<div id="main" class="" style="position: relative; min-height: 80px;"><div class="s-investor">
+    <div class="s-wrap">
+                <ul class="investor-list mt-10 mb-10 paged-content">
+            <li class="">
+    <a href="/profile/index/oid/af0baed7fadc80c8c99c8de9090600ac.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="ke" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">ke</u>
+                    </h5>
+        <p>投资金额：200,000元</p>
+        <p>跟投时间：2017-10-25</p>
+                <div class="poa r-5 b-5 hint-rounded hint-left hint-large" data-hint="投资理由：#   手机行业是一个巨大的市场，特别是手机后服务市场，已经达到了万亿级的市场规模，目前尚处在快速上升发展期，，用互联网创业者的话来讲，这是一片前景广阔的红海市场！但是尚未形成一套标准的行业体系和缺少良好的服务体验！简单来说，这是一个巨大的充满机会的市场！
+
+＃ &nbsp;近期同行业的几个品牌频频获得资本投资
+
+葫芦回收连续两个月获得数百万投资
+
+机蜜获得由预鉴资本领投的1.05个亿的投资
+
+回收宝获得由海峡资本领投的3个亿的投资
+
+闪修侠获得回收宝数千万战略投资
+
+这些投资事件表明了几个知名资本方对这个行业的看好
+
+＃ &nbsp;趣搞机从大学生市场切入但未来规划不仅仅局限于大学生，做手机的一站式服务平台，能够较好的避开巨头的竞争压力，独辟蹊径，有较好的市场前景，而且他们提出的迅速扩张占领正在消费升级三四线城市的理念很有前瞻性！">
+            <i class="if icon-line-4-paper c-a"></i>
+        </div>    </a>
+</li><li class="">
+    <a href="/profile/index/oid/85fc4573ddaac9f1c265f34aef7fba45.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/20171020230606_20171020230606.jpg" alt="cui先生">
+        </div>
+        <h5>
+            <u class="ellipsis">cui先生</u>
+                    </h5>
+        <p>投资金额：200,000元</p>
+        <p>跟投时间：2017-10-25</p>
+                <div class="poa r-5 b-5 hint-rounded hint-left hint-large" data-hint="投资理由：   本人和项目创始人认识较久，对项目创始人较为了解，觉得他做事很有闯劲，敢闯敢拼，也很有韧性。
+   因为和创始人比较熟悉，所以从项目一开始就在关注项目发展，对项目进行了一年多的观望，期间见证了项目的几次调整和改变，觉得项目总体发展还不错，可塑性也很强。和纯做线上的互联网电商项目以及传统的实体项目不同的是，这个项目通过结合线上的营销渠道以及互联网工具和线下实体店铺的既有优势形成了自己独有的商业模式，并且通过一年多的商业实践证明了这套商业模式的可盈利性和可持续发展性。
+    个人觉得投资这个项目属于比较保险的投资，未来的增长速度和回报率依赖于创始团队的成长速度和扩张速度，但是最起码不会亏损。">
+            <i class="if icon-line-4-paper c-a"></i>
+        </div>    </a>
+</li><li class="">
+    <a href="/profile/index/oid/64d1c771d6d7c5786dc3af6b4788e6bc.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/default_face8.jpg" alt="聚成信息科技-魯偉">
+        </div>
+        <h5>
+            <u class="ellipsis">聚成信息科技-魯偉</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-16</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/cfe895985f85af819923bd7a63c77e6c.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="Fancer" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">Fancer</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/162f15c9f1852139e94736553d68a895.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="熊熊熊" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">熊熊熊</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/e1f2362693f1b502f5ebd68cbd0ad87a.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2016-04-20_571715063adb0.png" alt="刘季">
+        </div>
+        <h5>
+            <u class="ellipsis">刘季</u>
+                    </h5>
+        <p>投资金额：20,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/bf32c8b41891aeffec06f0250f50cd69.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="百步穿杨" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">百步穿杨</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/634d6f0d5b6ab8b21d3468999ecbd263.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="cjcfd" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">cjcfd</u>
+                    </h5>
+        <p>投资金额：30,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/467f789a63cd3c1cd1beae2582203b54.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/default_face9.jpg" alt="王木槽">
+        </div>
+        <h5>
+            <u class="ellipsis">王木槽</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/522297526cb75b8a52aec9a27a0b2c59.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/ImageSelector_20160903_222213_20160903222215.JPEG" alt="fffffddddd">
+        </div>
+        <h5>
+            <u class="ellipsis">fffffddddd</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/b54e83e3ba977c322f0c9709b00d2fab.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/20170509155522_20170509155524.jpg" alt="陈京">
+        </div>
+        <h5>
+            <u class="ellipsis">陈京</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/21c7d294cf53f234d6069e25c860edb3.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="孤独求败" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">孤独求败</u>
+                    </h5>
+        <p>投资金额：30,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/3bea4bcfcc8d7854cf8d722134626f52.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="蔷薇o" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">蔷薇o</u>
+                    </h5>
+        <p>投资金额：40,000元</p>
+        <p>跟投时间：2017-11-06</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/e2252cb4d1f7c9a8873141bb89195c74.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/20170623143311_20170623143312.jpg" alt="leon Ying">
+        </div>
+        <h5>
+            <u class="ellipsis">leon Ying</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-03</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/6c279905f72d5a9cd0a73262ad177819.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="Yuez" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">Yuez</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-11-02</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/45f533f3e0aa5da36c9c210e91b6e888.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="慕高" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">慕高</u>
+                    </h5>
+        <p>投资金额：20,000元</p>
+        <p>跟投时间：2017-11-01</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/277b82004ef4cd3c9f2ccdbc881ad3b9.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/ImageSelector_20170505_212422_20170505212422.JPEG" alt="wangziwen">
+        </div>
+        <h5>
+            <u class="ellipsis">wangziwen</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/da3b8e321bdbc568f86d7bf22ec2ecef.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/ImageSelector_20171031_200558_20171031200559.JPEG" alt="ll">
+        </div>
+        <h5>
+            <u class="ellipsis">ll</u>
+                    </h5>
+        <p>投资金额：30,000元</p>
+        <p>跟投时间：2017-10-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/3349508969c62c05a7bd9d19e46a257c.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/ImageSelector_20171031_200420_20171031195800.JPEG" alt="追加">
+        </div>
+        <h5>
+            <u class="ellipsis">追加</u>
+                    </h5>
+        <p>投资金额：40,000元</p>
+        <p>跟投时间：2017-10-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/c512bddcbdebb96f50d886ccb249a752.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2015-07-22_55af113e62211.jpg" alt="壹伍叁伍创投">
+        </div>
+        <h5>
+            <u class="ellipsis">壹伍叁伍创投</u>
+                    </h5>
+        <p>投资金额：30,000元</p>
+        <p>跟投时间：2017-10-30</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/75490fc000f23030b7bb16530bae508e.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="华华" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">华华</u>
+                    </h5>
+        <p>投资金额：20,000元</p>
+        <p>跟投时间：2017-10-30</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/753cddb3f375ef2d319268bf152b072c.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2017-04-11_58ec4625c5e9d.png" alt="喜欢拼">
+        </div>
+        <h5>
+            <u class="ellipsis">喜欢拼</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-30</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/efb3d7481eb5a147a116d82fb9ddb3c8.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="Robin-xs" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">Robin-xs</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-29</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/1fd37ce80d495bebcb35e0054d7384fe.html" target="_blank">
+        <div class="img-wrap">
+            <img src="http://www.dreammove.cn/Public/Home/images/default_face/12.jpg" alt="乐在当下">
+        </div>
+        <h5>
+            <u class="ellipsis">乐在当下</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-28</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/e238064658a4924090308401ec00633d.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="hk19924343" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">hk19924343</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-28</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/3b729b66c0d909f4c47329a55a41e20e.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="未设置备注" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">未设置备注</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-27</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/952361ae42d9d944a8f170119280c7b7.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="Rika" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">Rika</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-27</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/fd0722096c5ca7a7feb9a85e2bddfed3.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="傻白甜" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">傻白甜</u>
+                    </h5>
+        <p>投资金额：10,000元</p>
+        <p>跟投时间：2017-10-27</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/cbd94dcf695977634cb7d3973b0a2ff7.html" target="_blank">
+        <div class="img-wrap">
+            <img src="/Public/Home/mobile/img/default-img.jpg" alt="皮皮小刘" noerr="1">
+        </div>
+        <h5>
+            <u class="ellipsis">皮皮小刘</u>
+                    </h5>
+        <p>投资金额：50,000元</p>
+        <p>跟投时间：2017-10-27</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/08249b533a54f12d91bbd70d3305adcc.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/default_face7.jpg" alt="申画眉">
+        </div>
+        <h5>
+            <u class="ellipsis">申画眉</u>
+                    </h5>
+        <p>投资金额：20,000元</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li>        </ul>
+        <div class="paginator paginator-investor mt-10 mb-10" data-total-page="2" data-url="/project/getpageinvestor/id/GQ14824160930018376/offset/0000/type/0.html">
+        <div class="page-list"><a href="javascript:;" class="btn disabled" jp-role="prev" jp-data="0">上一页 </a><a href="javascript:;" class="btn active" jp-role="page" jp-data="1">1</a><a href="javascript:;" class="btn" jp-role="page" jp-data="2">2</a><a href="javascript:;" class="btn" jp-role="next" jp-data="2">下一页</a></div></div>            </div>
+</div></div>
+<div id="main" class="" style="position: relative; min-height: 80px;"><div class="s-investor">
+    <div class="s-wrap">
+                <ul class="investor-list mt-10 mb-10 paged-content" style="position: relative; min-height: 80px;"><li class="">
+    <a href="/profile/index/oid/39ba1389e2930ff24e3101741c9009ea.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/20180610105746_20180610105747.jpg" alt="clockwatch">
+        </div>
+        <h5>
+            <u class="ellipsis">clockwatch</u>
+                    </h5>
+        <p>投资金额：10,000</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/7e7a41b8100b5266d5ffe632211f8ecb.html" target="_blank">
+        <div class="img-wrap">
+            <img src="http://www.dreammove.cn/Public/Home/images/default_face/3.jpg" alt="tarzanzhang">
+        </div>
+        <h5>
+            <u class="ellipsis">tarzanzhang</u>
+                    </h5>
+        <p>投资金额：10,000</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/8576d5a526fe75112fee46cc3a77e927.html" target="_blank">
+        <div class="img-wrap">
+            <img src="http://www.dreammove.cn/Public/Home/images/default_face/13.jpg" alt="yujianjing">
+        </div>
+        <h5>
+            <u class="ellipsis">yujianjing</u>
+                    </h5>
+        <p>投资金额：30,000</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/41da34fa4e455c4f3ec73f60665f1738.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2015-07-22_55af1491e59bb.jpg" alt="小玩玩">
+        </div>
+        <h5>
+            <u class="ellipsis">小玩玩</u>
+                    </h5>
+        <p>投资金额：20,000</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/a3c1e64ad2997b7947556ba8806f6e56.html" target="_blank">
+        <div class="img-wrap">
+            <img src="http://www.dreammove.cn/Public/Home/images/default_face/14.jpg" alt="夏光">
+        </div>
+        <h5>
+            <u class="ellipsis">夏光</u>
+                    </h5>
+        <p>投资金额：30,000</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/d57812289771598c8a5e3f9aaae10358.html" target="_blank">
+        <div class="img-wrap">
+            <img src="http://www.dreammove.cn/Public/Home/images/default_face/6.jpg" alt="明华">
+        </div>
+        <h5>
+            <u class="ellipsis">明华</u>
+                    </h5>
+        <p>投资金额：30,000</p>
+        <p>跟投时间：2017-10-26</p>
+            </a>
+</li></ul>
+        <div class="paginator paginator-investor mt-10 mb-10" data-total-page="2" data-url="/project/getpageinvestor/id/GQ14824160930018376/offset/0000/type/0.html">
+        <div class="page-list"><a href="javascript:;" class="btn" jp-role="prev" jp-data="1">上一页 </a><a href="javascript:;" class="btn" jp-role="page" jp-data="1">1</a><a href="javascript:;" class="btn active" jp-role="page" jp-data="2">2</a><a href="javascript:;" class="btn disabled" jp-role="next" jp-data="3">下一页</a></div></div>            </div>
+</div></div>

@@ -1,0 +1,12 @@
+body {
+    background: #000;
+    text-align: center;
+}
+#main {
+    position: absolute;
+    top: 25%;
+
+    font-size: 8em;
+    color: #fff;
+    letter-spacing: .1em
+}

@@ -1,0 +1,242 @@
+/* 基础样式 */
+li {
+  float: left;
+  list-style: none;
+}
+/* 顶部样式 */
+.topbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #333;
+  width: 100%;
+  height: 40px;
+}
+.container {
+  margin: 0 auto;
+  width: 1226px;
+}
+.col-xs-9 {
+  padding-left: 0px;
+}
+.top {
+  background-color: #333;
+  height: 40px;
+  font-size: 12px;
+  line-height: 40px;
+}
+.top ul {
+  padding: 0;
+}
+.top ul li a {
+  text-decoration: none;
+  border-right: 1px solid #454545;
+  padding: 0 7px;
+}
+.top ul li a.last {
+  border-right: 0;
+}
+.top ul li a:hover {
+  color: #fff;
+}
+.shopping {
+  background-color: #424242;
+  width: 120px;
+}
+.shopping:hover {
+  background-color: #fff;
+}
+.shopping:hover .last {
+  color: #ff6700;
+}
+.col-xs-3 {
+  padding-right: 0px;
+  padding-left: 28px; 
+}
+.col-xs-3 .final {
+  padding-right: 25px;
+}
+.shopping a::before {
+  vertical-align: center;
+  padding: 0 6px;
+}
+/* 第二栏样式 */
+.header {
+  position: relative;
+  height: 100px;
+  line-height: 100px;
+  font-size: 16px;
+}
+.header ul li {
+  padding: 0 10px;
+}
+.header a {
+  text-decoration: none;
+  color: #000;
+}
+.header a:hover {
+  color: #ff6700;
+}
+/* 搜索栏 */
+.input {
+  position: absolute;
+  padding: 0px;
+  margin: 0px;
+  height: 52px;
+  top: 27px;
+  right: 0px;
+  border: 1px solid #fff;
+  transition: 0.3s;
+}
+.input:hover {
+  border: 1px solid #aaa;
+}
+.search {
+  position: relative;
+  top: -25px;
+  width: 245px;
+  height: 50px;
+  background-color: #cce8cf;
+  border: 1px solid #cce8cf;
+}
+.btn-default {
+  position: relative;
+  top: -25px;
+  width: 52px;
+  height: 50px;
+  padding: 0px;
+  margin: 0px 0px 2px 0;
+  line-height: 50px;
+  border-radius: 0;
+  font-size: 18px;
+  color: #616161;
+}
+.btn-default:hover {
+  background-color: #ff6700;
+  color: #fff;
+}
+/* 图标 */
+.brand {
+  position: absolute;
+  top: 22.5px;
+  background: #ff6700;
+  width: 55px;
+  height: 55px;
+}
+.brand img {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+}
+.brand .home {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  font-size: 25px;
+  color: #fff;
+  display: none;
+}
+.brand:hover img {
+  display: none;
+}
+.brand:hover .home {
+  display: block;
+} 
+/* 第三栏样式 */
+.showband {
+  background-color: #eee;
+  height: 460px;
+  margin-bottom: 14px;
+}
+.showband .showband-aside {
+  height: 460px;
+  width: 234px;
+  padding: 0;
+}
+.showband .showband-aside ul {
+  background-color: #aaa;
+  height: 100%;
+  padding: 20px 0;
+  margin: 0;
+}
+.showband .showband-aside ul li {
+  width: 100%;
+  height: 10%;
+  padding: 0 30px;
+}
+.showband .showband-aside ul li:hover {
+  background-color: #ff6700;
+}
+.showband .showband-aside ul li a {
+  font-size: 14px;
+  line-height: 42px;
+  color: #fff;
+}
+.showband .showband-aside ul li a:hover {
+  text-decoration: none;
+}
+.showband .showband-aside ul li span {
+  float: right;
+  line-height: 42px;
+}
+/* 轮播图 */
+.showband .showband-pic {
+  width: 992px;
+  height: 460px;
+  padding: 0;
+}
+.showband .showband-pic .carousel {
+  height: 460px;
+}
+.showband .showband-pic .carousel .carousel-indicators li {
+  position: relative;
+  margin: 5px;
+  bottom: -15px;
+  right: -650px;
+}
+.showband .showband-pic .carousel .carousel-inner .item img {
+  height: 460px;
+}
+/* 第四栏样式 */
+.lshowband {
+  height: 170px;
+}
+.lshowband .col-xs-2 {
+  width: 234px;
+  background-color: #5f5750;
+}
+.lshowband .col-xs-2 .col-xs-4 {
+  border: 1px solid #999;
+  width: 78px;
+  height: 85px;
+  font-size: 12px;
+  padding: 10px 3px;
+}
+.lshowband .col-xs-2 .col-xs-4 .small_pic {
+  width: 70px;
+  height: 64px;
+  padding-top: 10px;
+  text-align: center;
+}
+.lshowband .col-xs-2 .col-xs-4 .small_pic a {
+  text-decoration: none;
+  color: #ccc;
+}
+.lshowband .col-xs-2 .col-xs-4 .small_pic a:hover {
+  color: #eee;
+}
+.lshowband .col-xs-2 .col-xs-4 .small_pic a img {
+  width: 24px;
+  height: 24px;
+  margin-bottom: 5px;
+}
+.lshowband .col-xs-3 {
+  width: 316px;
+  height: 170px;
+  padding: 0px;
+  margin-left: 14px;
+}
+.lshowband img {
+  width: 100%;
+  height: 100%;
+}

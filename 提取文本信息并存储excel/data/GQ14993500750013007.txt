@@ -1,0 +1,85 @@
+<div id="main" class="" style="position: relative; min-height: 80px;"><div class="s-investor">
+    <div class="s-wrap">
+                <ul class="investor-list mt-10 mb-10 paged-content">
+            <li class="leader">
+    <a href="/profile/index/oid/f46a7537f2a4d9cb860b5969ed5da1db.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/default_face5.jpg" alt="issue">
+        </div>
+        <h5>
+            <u class="ellipsis">issue</u>
+            <i class="if icon-ltr"></i>        </h5>
+        <p>投资金额：1,000,000元</p>
+        <p>跟投时间：2017-07-14</p>
+                <div class="poa r-5 b-5 hint-rounded hint-left hint-large" data-hint="投资理由：青葱岁月时期每个人都有一个开咖啡馆或酒吧的梦 ，有一个属于自己的聚会发呆场所 。我们来一起装逼 一起玩耍 一起发呆 一起创业 一起从燃青春……         于是乎GM组建了这样的股东群：上市公司老板看门 、美女网红主播开车 、金融才俊开锁 、实体精英搬砖、开始了团伙做案。">
+            <i class="if icon-line-4-paper c-a"></i>
+        </div>    </a>
+</li><li class="">
+    <a href="/profile/index/oid/2755b38d25c1cc11964b9430974c2cf9.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/20161109145041_20161109145041.jpg" alt="Alicebearrr">
+        </div>
+        <h5>
+            <u class="ellipsis">Alicebearrr</u>
+                    </h5>
+        <p>投资金额：50,000元</p>
+        <p>跟投时间：2017-07-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/4643dd49216b67d9c617ceb260e45684.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2018-05-22_5b03edc9ddd37.jpg" alt="xiyan00">
+        </div>
+        <h5>
+            <u class="ellipsis">xiyan00</u>
+                    </h5>
+        <p>投资金额：100,000元</p>
+        <p>跟投时间：2017-07-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/720788047c0f22a0d3b25150007b2618.html" target="_blank">
+        <div class="img-wrap">
+            <img src="http://public.dreammove.cn/2018-10-09_5bbc29175bf92.jpg" alt="final0901✨">
+        </div>
+        <h5>
+            <u class="ellipsis">final0901✨</u>
+                    </h5>
+        <p>投资金额：100,000元</p>
+        <p>跟投时间：2017-07-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/08249b533a54f12d91bbd70d3305adcc.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/default_face7.jpg" alt="申画眉">
+        </div>
+        <h5>
+            <u class="ellipsis">申画眉</u>
+                    </h5>
+        <p>投资金额：100,000元</p>
+        <p>跟投时间：2017-07-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/6bbd80b04535d39be5e02dbfd8730469.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2015-08-06_55c2d1d999a9c.jpg" alt="焰">
+        </div>
+        <h5>
+            <u class="ellipsis">焰</u>
+                    </h5>
+        <p>投资金额：100,000元</p>
+        <p>跟投时间：2017-07-31</p>
+            </a>
+</li><li class="">
+    <a href="/profile/index/oid/b92d0fcbc8d2624a2ea66907feb8d8de.html" target="_blank">
+        <div class="img-wrap">
+            <img src="https://public.dreammove.cn/2015-07-23_55b084e93ace7.jpg" alt="Andypapa">
+        </div>
+        <h5>
+            <u class="ellipsis">Andypapa</u>
+                    </h5>
+        <p>投资金额：50,000元</p>
+        <p>跟投时间：2017-07-17</p>
+            </a>
+</li>        </ul>
+                    </div>
+</div></div>
